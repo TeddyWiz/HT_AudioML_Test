@@ -1,0 +1,8 @@
+#!C:\Teddy\02_WorkSpace\06_STM\03_github\HT_AudioML_Test\audioML_env\audioML_env\Scripts\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
